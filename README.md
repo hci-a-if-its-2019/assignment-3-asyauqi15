@@ -176,5 +176,4 @@ B : Interviewees
 The amount of content from each page needs to be considered to create a new page. And things that are really important must be put in the beginning.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+https://invis.io/PFRT90FC2MG#/361090587_1
