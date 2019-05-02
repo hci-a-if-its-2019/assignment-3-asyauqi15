@@ -173,8 +173,7 @@ B : Interviewees
 ![Sketch of Refined Prototype](/media/2.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+The amount of content from each page needs to be considered to create a new page. And things that are really important must be put in the beginning.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
