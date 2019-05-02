@@ -1,7 +1,7 @@
 # Usability Evaluation and Prototyping (again)
 
 ## Operating the Prototype
-<video src="media/video.mp4" controls preload></video>
+https://youtu.be/aojLhzyxAEI
 
 ---
  
@@ -13,52 +13,128 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - Male
+ - 19 years old
+ - Student of Geomatics Engineering Department ITS Batch 2018
+ - Almost always connected to Internet
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - Male
+ - 20 years old
+ - Student of Physics Engineering Department ITS Batch 2017
+ - Almost always connected to Internet
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+ - Find all post
+ - Find lab programs
+ - Find lab usage term
+ - Find link to other laboratory web
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+A : Interviewer
+B : Interviewees
+
+1. A : Kita mulai ya, Yan.
+2. B : Iya ayo.
+3. A : Ini hasil aku redesign web nya yang kemarin. (Opening invision)
+4. B : Udah bagus sekarang ya tampilannya, Mas.
+5. A : Iyalah. Nih kita coba kayak yang kemarin ya.
+6. B : Iya.
+7. A : Coba cari semua post-post yang ada.
+8. B : Yang artikel ini ya, Mas?
+9. A : Coba klik aja dulu.
+10. B : Ini semua kan, Mas?
+11. A : Iya. Gimana dibandingin yang kemarin?
+12. B : Udah lupa yang kemarin gimana.
+13. A : Nih aku coba bukain webnya yang kemarin. (Opening kcv.if.its.ac.id) Lah, kok? (Website show "Error establishing a database connection")
+14. B : Loh gimana, Mas? Hahaha
+15. A : Ya wis, gak usah lah ya.
+16. B : Iya.
+17. A : Terus coba kamu cari kegiatan atau program-programnya lab.
+18. B : Yang program ini ya, Mas?
+19. A : Iya. Coba liat semua programnya.
+20. B : Oh iya iya. (Opening Data Mining Club). Gimana buat ngeliatin yang satunya tadi, Mas?
+21. A : Balik ke tempat yang tadi sih.
+22. B : Ooh.
+23. A : Terus coba cari peraturan lab.
+24. B : Dimana, Mas?
+25. A : Coba cari dulu sendiri.
+26. B : Oke. (Opening the next feature in navbar). Yang ini kan, Mas? (Clicking "Peraturan Lab" button).
+27. A : Iya.
+28. B : Mana peraturannya?
+29. A : Masih prototype, ceritanya nanti yang kotak-kotak itu kayak icon gitu, terus yang lorem ipsum itu tulisan peraturannya.
+30. B : Ooh.
+31. A : Coba cariin link untuk ke lab lain.
+32. B : Oke. (Opening all option in navbar). Mana, Mas? Oh ini dibawah ya, Mas?
+33. A : Iya. Udah gitu aja. Ada tanggapan gak mengenai webnya?
+34. B : Bagus sih, Mas, dibandingin yang kemarin.
+35. A : Kalau dari segi fungsi gimana?
+36. B : Lebih gampang sih, Mas. Tulisannya juga besar-besar, enak buat nyarinya.
+37. A : Kira-kira ada gak yang mau diubah/ditambah biar makin enak?
+38. B : Udah sih, Mas kayaknya.
+39. A : Oke-oke. Makasih ya.
+40. B : Sama-sama, Mas.
+
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+A : Interviewer
+B : Interviewees
+
+1. A : Kita mulai ya, Dan.
+2. B : Iya.
+3. A : (Opening invision). Nah ini coba dipake webnya.
+4. B : Web apa ini?
+5. A : Ini aku design-in web untuk lab di jurusan ku, untuk tugas sih.
+6. B : Serius ini lab mu ada pc apple nya?
+7. A : Pict dari google. Hahaha.
+8. B : Penipuan ini.
+9. A : Ayo wes, lanjut aja. Coba cari semua post-post yang ada.
+10. B : Hmmm. Yang artikel ini?
+11. A : Iya. Gimana menurutmu?
+12. B : Bagus, sih. Lumayan.
+13. A : Ada masukan untuk diubah gak?
+14. B : Gak ada.
+15. A : Ya wis, lanjut. Coba cari program-program
+16. B : (Clicking "Program" in navbar) Udah.
+17. A : Coba liatin semua detail programnya,
+18. B : (Opening Data Mining Club) Udah. Terus liat satunya lagi gimana?
+19. A : Ya back aja langsung.
+20. B : Oh. (Opening Lab Based Education).
+21. A : Gimana tanggapan mu?
+22. B : Bagus sih, cuma kurang nyaman kalau make tombol back gitu. Mending disatuin satu halaman gitu, lagian isinya juga cuma dikit kan.
+23. A : Oke-oke. Nanti ku coba buatin. Ada lagi gak?
+24. B : Udah sih, itu aja.
+25. A : Terus coba cari peraturan lab nya.
+26. B : Dimana?
+27. A : Ya coba cari.
+28. B : (Opening Fasilitas) Oh disini.
+29. A : Gimana, ada masukan?
+30. B : Apa ya. (Thinking).
+31. A : Gimana?
+32. B : (Still thinking) Oh! Bagusan taruh di halaman depan gak sih ini?
+33. A : Kenapa gitu?
+34. B : Biar orang bisa ngerti gitu sama peraturan lab nya. Sama biasanya yang buka web ini biasanya mau reservasi pc apa gak?
+35. A : Biasanya sih kalo resevasi langsung ke admin sih.
+36. B : Ooh. Yaudah deh, gak jadi.
+37. A : Oke, selanjutnya coba cari link ke laboratorium lain.
+38. B : Ini di bawah kan? Eh tapi kok gak bisa ditekan?
+39. A : Ya namanya prototype, males ngelinknya.
+40. B : Oh yaudah.
+41. A : Ada masukan gak untuk linknya?
+42. B : Gak ada.
+43. A : Secara keseluruhan ada saran gak?
+44. B : Apa ya. Gak ada kayaknya.
+45. A : Oke deh. Makasih ya.
+46. B : Sama-sama.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](/images/kcv-banner.jpg)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -75,27 +151,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
