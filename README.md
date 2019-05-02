@@ -129,30 +129,48 @@ B : Interviewees
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![Prototype Screen 1](/images/kcv-banner.jpg)
+![Prototype Screen 1](/media/3.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: (P1#10) Ini semua kan, Mas?
+ - **Feedback**: Positive
+ - **Incidence**:
+ - **Reason**: Because easier to use, compared his reaction from the first interview
+ - **Resolution**:
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](/media/4.png)
 
- - **Reference**: 
- - **Feedback**: 
+ - **Reference**: (P2#32) Oh! Bagusan taruh di halaman depan gak sih ini?
+ - **Feedback**: Give the suggestion for better use
  - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reason**: in order to user can know the term of this lab directly
+ - **Resolution**: term and reservation button move to home page
  
+ #### OBSERVATION 3
+![Prototype Screen 3](/media/5.png)
+
+ - **Reference**: (P2#22) Bagus sih, cuma kurang nyaman kalau make tombol back gitu. Mending disatuin satu halaman gitu, lagian isinya juga cuma dikit kan.
+ - **Feedback**: rather negative
+ - **Incidence**: 
+ - **Reason**: the content is too little
+ - **Resolution**: Data Mining Club and Lab Based Education  in the same page
+ 
+ #### OBSERVATION 4
+![Prototype Screen 4](/media/6.png)
+
+ - **Reference**: (P2#38) 38. B : Ini di bawah kan? Eh tapi kok gak bisa ditekan?
+ - **Feedback**: Positive
+ - **Incidence**: 
+ - **Reason**: Because user directly know where the link is
+ - **Resolution**:
  ---
 
 ## Part B: Prototyping (again)
 
 ### Sketch
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](/media/1.jpg)
+![Sketch of Refined Prototype](/media/2.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
